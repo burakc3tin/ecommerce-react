@@ -1,4 +1,4 @@
-## Eteration E-Commerce Project
+## E-Commerce Project
 
 A responsive designed e-commerce project with filtering and search features with data received from API. Vite, react, tailwind were used as the basis.
 
