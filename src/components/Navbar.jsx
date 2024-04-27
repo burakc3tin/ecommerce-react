@@ -26,7 +26,7 @@ export default function Navbar({ setSearchTerm }) {
           <div className="pb-2">
           
               <a href="/" className="text-2xl no-underline text-grey-darkest hover:text-blue-dark">
-                Eteration
+                E-ticaret
               </a>
            
           </div>
