@@ -12,7 +12,7 @@ A responsive designed e-commerce project with filtering and search features with
 
 ### `Screenshots`
 
-<img src="https://i.hizliresim.com/mechrlp.png" width=40% height=40%>
+<img src="https://i.hizliresim.com/n4hlmno.png" width=40% height=40%>
 <img src="https://i.hizliresim.com/as8ee9j.png" width=40% height=40%>
 
 
